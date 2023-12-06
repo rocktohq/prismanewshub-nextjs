@@ -1,1 +1,1 @@
-# Dragon News withNextJS
+# PrismaNewsHub with NextJS
